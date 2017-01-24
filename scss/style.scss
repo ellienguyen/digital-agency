@@ -1,0 +1,25 @@
+body {
+  position: relative;
+}
+
+.intro {
+	background-image: url(http://wowslider.com/sliders/demo-5/data/images/sur.jpg);
+	background-size: cover;
+	.jumbotron {
+		padding-top: 10rem;
+		height: 40rem;
+		background: transparent;
+		p, h1 {
+			color: white;
+		}
+	}
+	.navbar {
+		background: transparent;
+	}
+
+	li a {
+		color: white !important;
+	}
+}
+
+
